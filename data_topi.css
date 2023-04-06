@@ -1,0 +1,72 @@
+body{
+    background: white;
+    margin: 0px auto;
+}
+
+nav{
+   text-align: center;
+   background: rgb(0, 0, 0);
+   padding: 50px;
+   margin-bottom: 50px;
+}
+
+.navigasi:hover{
+    color: tomato;
+}
+
+.navigasi{
+    margin: 12px;
+    text-decoration: none;
+    color: black;
+}
+
+.container{
+    max-width: 1270px;
+    margin: 0px auto;
+}
+
+
+.aksi-edit{
+    background: green;
+    padding: 6px;
+    border-radius: 5px;
+    color: white;
+    padding: 7px 8px;
+    text-decoration: none;
+}
+
+.aksi-hapus{
+    background: red;
+    padding: 6px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+}
+
+.button{
+    background: blue;
+    padding: 7px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+}
+
+table{
+    border-color: black;
+    margin: 35px auto;
+}
+
+th{
+    color: white;
+    background: black;
+}
+
+td{
+    color: black;
+}
+
+th, td{
+    padding: 10px;
+    width: 310px;
+    text-align: center;
+}
